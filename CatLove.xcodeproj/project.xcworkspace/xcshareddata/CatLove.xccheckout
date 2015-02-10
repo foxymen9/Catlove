@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E8AE4C91-6CB5-4453-B5F7-8CC8567D2261</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CatLove</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ACC500C25F4E9275EFB8A0FA6E12C9084ED1E25E</key>
+		<string>https://bitbucket.org/nipponese/petlove.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Source/CatLove/CatLove.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ACC500C25F4E9275EFB8A0FA6E12C9084ED1E25E</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/nipponese/petlove.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ACC500C25F4E9275EFB8A0FA6E12C9084ED1E25E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ACC500C25F4E9275EFB8A0FA6E12C9084ED1E25E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>petlove</string>
+		</dict>
+	</array>
+</dict>
+</plist>
